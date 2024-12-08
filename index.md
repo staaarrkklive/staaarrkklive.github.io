@@ -1,6 +1,6 @@
 ---
 title: The Staaarrkk Site!
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://media.discordapp.net/attachments/1044164049270738955/1315331492737585162/staarrk.png?ex=67570569&is=6755b3e9&hm=5ff56a54ab2e27f4e9bef9172831189122fbeee36950686f57ec21b09e964c48&=&format=webp&quality=lossless&width=810&height=249"
 feature_text: |
   ## wsg gang
 ---
