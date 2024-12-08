@@ -26,7 +26,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://media.discordapp.net/attachments/1044164049270738955/1315309240596041838/779.png?ex=6756f0b0&is=67559f30&hm=53945d383d54435c11ea1ed3e5b5ca97dd046ffa5a1e465252b78b97deb2907c&=&format=webp&quality=lossless&width=810&height=457"
 
 # Pagination
 paginate: 5
@@ -35,11 +35,9 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+  url: /home/
+- title: My Music List
+  url: /music/
 
 # Footer nav
 navigation_footer:
