@@ -12,7 +12,7 @@ Links
  <a href="https://www.youtube.com/@staaarrkk">Youtube</a> 
  <a href="https://steamcommunity.com/id/Staaarrkk/">Steam</a> 
  <a href="https://www.roblox.com/users/791422126/profile">Roblox</a> 
- <a href="https://x.com/staaarrkkLive)">Twitter</a> 
+ <a href="https://x.com/staaarrkkLive">Twitter</a> 
  <a href="https://bsky.app/profile/staaarrkk.bsky.social">BlueSky</a> 
  <a href="https://www.instagram.com/staaarrkklive/">Instagram</a> 
 
