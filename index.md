@@ -7,7 +7,7 @@ feature_text: |
 
 This is where any important links and info will be :D
 
-      Links
+Links
 https://open.spotify.com/user/1m16d88z3kbqmzggu7ebglq4r
 https://www.youtube.com/@staaarrkk
 https://steamcommunity.com/id/Staaarrkk/
