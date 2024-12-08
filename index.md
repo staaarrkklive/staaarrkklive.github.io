@@ -1,7 +1,3 @@
-<title>The Staaarrkk Site</title>
-<meta content="The Staaarrkk Site" property="og:title" />
-<meta content="https://staaarrkklive.github.io/" property="og:url" />
-<meta content="https://media.discordapp.net/attachments/1044164049270738955/1315343958057943090/github1.png?ex=67571105&is=6755bf85&hm=cdbae2d2476ae6f7d2aad55e255da2da08639474a661a5ddffe8ef8e2dc41d2d&=&format=webp&quality=lossless&width=810&height=405" property="og:image" />
 ---
 title: The Staaarrkk Site!
 feature_image: "https://media.discordapp.net/attachments/1044164049270738955/1315331492737585162/staarrk.png?ex=67570569&is=6755b3e9&hm=5ff56a54ab2e27f4e9bef9172831189122fbeee36950686f57ec21b09e964c48&=&format=webp&quality=lossless&width=810&height=249"
