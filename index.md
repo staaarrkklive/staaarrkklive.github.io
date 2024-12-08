@@ -14,6 +14,7 @@ https://steamcommunity.com/id/Staaarrkk/
 https://www.roblox.com/users/791422126/profile
 https://x.com/staaarrkkLive
 https://bsky.app/profile/staaarrkk.bsky.social
+[![Instagram](https://www.instagram.com/staaarrkklive)]
 
   Information for those who care :3
 I created this webpage as a test, and for a resource for all information on me that is important or not to the public!
